@@ -1,9 +1,9 @@
 <h1 align="center">microservices-springboot-configserver-sampleapp 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
-  <a href="#" target="_blank">
+<!--   <a href="#" target="_blank">
     <img alt="License: MIT License" src="https://img.shields.io/badge/License-MIT License-yellow.svg" />
-  </a>
+  </a> -->
 </p>
 
 > The Spring Boot Microservices have been implemented using Spring Cloud, Eureka Server, Docker, and Kubernetes.
